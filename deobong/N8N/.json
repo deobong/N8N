@@ -1,0 +1,56 @@
+{
+  "context": {},
+  "item": {
+    "json": {
+      "repo_owner": "deobong",
+      "repo_name": "N8N",
+      "repo_path": "deobong/N8N/",
+      "drive_folder": "120oglYorJxH3jYfLs3_DWPw1m2koWLXw"
+    },
+    "pairedItem": {
+      "item": 0
+    }
+  },
+  "output": [
+    {
+      "json": {
+        "route": 2
+      }
+    }
+  ],
+  "params": {
+    "mode": "manual",
+    "duplicateItem": false,
+    "assignments": {
+      "assignments": [
+        {
+          "id": "8f6d1741-772f-462a-811f-4c334185e4f0",
+          "name": "repo_owner",
+          "type": "string",
+          "value": "deobong"
+        },
+        {
+          "id": "8cac215c-4fd7-422f-9fd2-6b2d1e5e0383",
+          "name": "repo_name",
+          "type": "string",
+          "value": "N8N"
+        },
+        {
+          "id": "eee305e9-4164-462a-86bd-80f0d58a31ae",
+          "name": "repo_path",
+          "type": "string",
+          "value": "deobong/N8N/"
+        },
+        {
+          "id": "1c5c8b49-ec51-4ada-a99a-1b47f81a907a",
+          "name": "drive_folder",
+          "value": "120oglYorJxH3jYfLs3_DWPw1m2koWLXw",
+          "type": "string"
+        }
+      ]
+    },
+    "includeOtherFields": true,
+    "include": "all",
+    "options": {}
+  }
+}
